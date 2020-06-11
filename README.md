@@ -1,5 +1,5 @@
 # VP_RPE_2020
-Data and analysis for our 2020 manuscript on RPE signaling in VP.
+Data and analysis for our 2020 manuscript on RPE signaling in ventral pallidum.
 
 All of the preprocessed data is available in “Data” subfolders. There you can also find Matlab files created with scripts in the MatlabScripts folders “1_InitialAnalysis” and “2_Modeling”
 
